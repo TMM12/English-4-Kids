@@ -1,0 +1,27 @@
+C:\Users\Profesor\Desktop\dress\dress\bin\Debug\dress.exe.config
+C:\Users\Profesor\Desktop\dress\dress\bin\Debug\dress.exe
+C:\Users\Profesor\Desktop\dress\dress\bin\Debug\dress.pdb
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.Properties.Resources.resources
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.csproj.GenerateResource.Cache
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.exe
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.pdb
+C:\Users\Profesor\Desktop\dress\dress\obj\Debug\dress.frmDressG.resources
+C:\Users\Profesor\Desktop\cook\dress\bin\Debug\dress.exe.config
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.exe
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.pdb
+C:\Users\Profesor\Desktop\cook\dress\bin\Debug\dress.exe
+C:\Users\Profesor\Desktop\cook\dress\bin\Debug\dress.pdb
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.csprojResolveAssemblyReference.cache
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.frmRecipe.resources
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.Properties.Resources.resources
+C:\Users\Profesor\Desktop\cook\dress\obj\Debug\dress.csproj.GenerateResource.Cache
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\bin\Debug\dress.exe.config
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.exe
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.pdb
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\bin\Debug\dress.exe
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\bin\Debug\dress.pdb
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.csprojResolveAssemblyReference.cache
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.frmRecipe.resources
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.Properties.Resources.resources
+C:\Users\Teodora Mezei\Desktop\cook\cook\dress\obj\Debug\dress.csproj.GenerateResource.Cache
